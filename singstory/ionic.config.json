@@ -1,0 +1,7 @@
+{
+  "name": "singstory",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
